@@ -1,0 +1,3 @@
+model = Sequential()
+model.add(SimpleRNN(units, input_shape=(timesteps, features)))
+model.add(Dense(1))
