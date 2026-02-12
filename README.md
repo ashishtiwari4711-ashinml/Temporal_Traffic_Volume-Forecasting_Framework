@@ -1,4 +1,4 @@
-# Methods of Prediction — Simple RNN Time Series Forecasting
+# Simple RNN Time Series Forecasting
 
 Author: Ashish Tiwari  
 
