@@ -1,0 +1,9 @@
+
+## 🔧 Dependencies
+
+python >= 3.9
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
